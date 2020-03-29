@@ -1,0 +1,28 @@
+h2{
+	text-align:center;
+	margin-top:150px;
+	font-size: 44px;
+	font-family: 'Comic Neue', cursive;
+font-family: 'Noto Serif', serif;
+}
+#insta{
+	margin-left:585px;
+	padding:30px;
+}
+#facebook{
+	padding-right:30px;
+}
+#twitter{
+	margin-left:585px;
+	padding:35px;
+}
+#gmail{
+	padding:22px;
+}
+#youtube{
+	padding:30px;
+}
+#skype{
+	margin:735px;
+}
+
